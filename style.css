@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 132px;
+    background: #109E97;
+}
+
+header p {
+    color: #FFF;
+    display: flex;
+    font-family: Lobster;
+    font-size: 49px;
+    line-height: 50px;
+    justify-content: center;
+    padding: 33px 49px 0;
+}
+
+.mother {
+    display: flex;
+    margin-top: 102px;
+    margin-bottom: 370px;
+
+}
+
+img {
+
+    width: 300px;
+    height: 450px;
+    margin-left: 370px;
+    margin-right: 80px;
+
+} 
+
+.small,
+.stron {
+    border: 2px solid #B0E9B0;
+
+}
+.small{
+    margin-bottom: 113px;
+}
+.muellif{
+font-size: 26px;
+line-height: 26px; 
+}
+.price1{
+font-size: 25px;
+color: #008000;
+}
+.price2{
+    color: #F00;
+font-size: 16px;
+
+}
+.little{
+font-size: 20px;
+text-transform: uppercase;
+margin-bottom: 15px;
+}
+.strong{
+font-size: 18px;
+line-height: 18px; 
+letter-spacing: 2px;
+}
+.elave{
+    color: #FFF;
+text-align: center;
+font-size: 16px;
+line-height: 22.857px; 
+width: 149px;
+height: 48px;
+border-radius: 4px;
+border: 1px solid #109E97;
+background: #109E97;
+margin-top: 18px;
+}
+
+.circle{
+ margin-left:100px ;
+ margin-right: 15px;
+
+}
+.circles{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+background: #109E97;
+text-align: center;
+}
+ion-icon{
+    text-align: center;
+    margin-top: 30%;
+}
+.xusu{
+    display: flex;
+    justify-content: center;
+    margin-top: 101px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+
+table,th,tr,td{
+    width: 100%;
+    border: 1px solid black;
+   
+}
+
+.cem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 174px;
+    align-items: center;
+
+}
+
+
+.son{
+    background: #109E97;
+    margin-top: 132px;
+}
+.son{
+    color: #FFF;
+justify-content: center;
+display: flex;
+font-size: 16px;
+line-height: 16px;
+padding: 41px 0;
+}
